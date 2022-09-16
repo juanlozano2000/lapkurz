@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="59" viewBox="0 0 59 59">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.065" y1="0.759" x2="1" y2="0.42" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4caf50"/>
+      <stop offset="0.489" stop-color="#4aaf50"/>
+      <stop offset="0.665" stop-color="#43ad50"/>
+      <stop offset="0.79" stop-color="#38aa50"/>
+      <stop offset="0.892" stop-color="#27a550"/>
+      <stop offset="0.978" stop-color="#11a050"/>
+      <stop offset="1" stop-color="#0a9e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.05" x2="0.5" y2="0.77" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd747"/>
+      <stop offset="0.482" stop-color="#ffd645"/>
+      <stop offset="0.655" stop-color="#fed43e"/>
+      <stop offset="0.779" stop-color="#fccf33"/>
+      <stop offset="0.879" stop-color="#fac922"/>
+      <stop offset="0.964" stop-color="#f7c10c"/>
+      <stop offset="1" stop-color="#f5bc00"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.835" y1="1.67" x2="0.128" y2="1.034" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f7572f"/>
+      <stop offset="0.523" stop-color="#f7552d"/>
+      <stop offset="0.712" stop-color="#f75026"/>
+      <stop offset="0.846" stop-color="#f7461b"/>
+      <stop offset="0.954" stop-color="#f7390a"/>
+      <stop offset="1" stop-color="#f73100"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.146" y1="0.996" x2="0.854" y2="0.289" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2aa4f4"/>
+      <stop offset="1" stop-color="#007ad9"/>
+    </linearGradient>
+  </defs>
+  <g id="Icono_chrome" data-name="Icono chrome" transform="translate(604 -456)">
+    <circle id="Elipse_1" data-name="Elipse 1" cx="29.5" cy="29.5" r="29.5" transform="translate(-604 456)" fill="#fff"/>
+    <g id="icons8-chrome" transform="translate(-600 460)">
+      <path id="Trazado_1" data-name="Trazado 1" d="M35.375,24.688A10.688,10.688,0,1,1,24.688,14,10.69,10.69,0,0,1,35.375,24.688Z" transform="translate(0.688 0.688)" fill="#fff"/>
+      <path id="Trazado_2" data-name="Trazado 2" d="M33.209,30.943,24.488,46.729A21.374,21.374,0,0,1,25.375,4V15.756a9.619,9.619,0,1,0,7.834,15.187Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      <path id="Trazado_3" data-name="Trazado 3" d="M45.433,25.375A21.369,21.369,0,0,1,24.058,46.75h-.9l8.732-15.807a9.609,9.609,0,0,0-7.834-15.187V4A21.4,21.4,0,0,1,45.433,25.375Z" transform="translate(1.317 0)" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_4" data-name="Trazado 4" d="M44.226,15.756H25.159a9.62,9.62,0,0,0-9.619,9.619,9.459,9.459,0,0,0,1.079,4.414h-.011L7.161,13.9H7.14a21.346,21.346,0,0,1,37.086,1.86Z" transform="translate(0.216 0)" fill="url(#linear-gradient-3)"/>
+      <path id="Trazado_5" data-name="Trazado 5" d="M31.963,24.481A7.481,7.481,0,1,1,24.481,17,7.48,7.48,0,0,1,31.963,24.481Z" transform="translate(0.894 0.894)" fill="url(#linear-gradient-4)"/>
+    </g>
+  </g>
+</svg>
