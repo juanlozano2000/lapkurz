@@ -31,16 +31,31 @@ html, body {
 
 .botones_padre{
   height: 60%;
-  border: var(--redborder);
   padding: 10% 5% 10% 5%;
 }
 
 .boton_hijo{
 height: 4rem;
-color: black;
-font-size: 14pt;
-font-weight: 500;
 background-color: #06dee7;
+display: flex;
+justify-content: center;
+align-items: center;
+text-decoration: none;
+}
+.boton_hijo button {
+  color: black;
+  font-size: 14pt;
+  font-weight: 500;
+  border: none;
+  background-color: #06dee7;
+}
+
+.volver_hijo button{
+  color: white;
+  font-size: 14pt;
+  font-weight: 500;
+  border: none;
+  background-color: black;
 }
 
 .iconos_padre{
