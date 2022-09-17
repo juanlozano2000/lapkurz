@@ -50,9 +50,9 @@ text-decoration: none;
   background-color: #06dee7;
 }
 
-.volver_hijo button{
+.volver_hijo i button {
   color: white;
-  font-size: 14pt;
+  font-size: 12pt;
   font-weight: 500;
   border: none;
   background-color: black;
@@ -77,4 +77,32 @@ padding: 0% 10% 0% 10%;
   bottom: 0;
   left: 0;
   padding: 0.3rem; */
+}
+
+.arrow{
+  color: white;
+  text-decoration: none;
+}
+
+
+
+.accordion-body{
+  background-color: black;
+  color: white;
+}
+
+.boton-acordion{
+  width: 100%;
+  background-color: black;
+  border: yellow 2px solid;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+  padding: 0.5rem;
+  position: relative;
+}
+
+.fa-chevron-down{
+  position: absolute;
+  right: 1.5rem;
 }
