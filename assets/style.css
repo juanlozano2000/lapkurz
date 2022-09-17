@@ -91,6 +91,22 @@ padding: 0% 10% 0% 10%;
   color: white;
 }
 
+/* Tamaño de las imagenes general */
+.accordion-body div img {
+  scale: 80%;
+}
+
+.precio{
+  font-size: 14pt;
+  font-weight: 600;
+}
+
+.descripcion_producto {
+  font-size: 12pt;
+  font-weight: bold;
+  margin-top: -0.5rem;
+}
+
 .boton-acordion{
   width: 100%;
   background-color: black;
