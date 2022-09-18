@@ -154,22 +154,3 @@ padding: 0% 10% 0% 10%;
 .body_combos{
   background-color: rgb(74, 73, 73);
 }
-
-
-.boton_descargar:hover{
-  background-color: #06dee7;
-}
-
-.fila_descargar {
-  height: 100vh;
-}
-
-.boton_descargar{
-  background-color: #f60092;
-  border-radius: 2rem;
-  padding: 1rem;
-}
-.boton_descargar a {
-  text-decoration: none;
-  color: white;
-}
