@@ -125,3 +125,27 @@ padding: 0% 10% 0% 10%;
   position: absolute;
   right: 1.5rem;
 }
+
+.items_combos{
+  list-style: none;
+}
+.items_combos li {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: -10px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  font-size: 14pt;
+  color: #00f7ff;
+}
+
+.precio_combos {
+  font-size: 28pt;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+
+.body_combos{
+  background-color: rgb(74, 73, 73);
+}
