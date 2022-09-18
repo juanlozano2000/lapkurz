@@ -99,6 +99,11 @@ padding: 0% 10% 0% 10%;
   color: white;
 }
 
+.accordion-item{
+  border: yellow 1px solid;
+  background-color: black;
+}
+
 /* Tamaño de las imagenes general */
 .accordion-body div img {
   scale: 80%;
